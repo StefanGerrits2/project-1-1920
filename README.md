@@ -2,6 +2,7 @@ I worked together with [Roy Kuijper](https://github.com/RooyyDoe) on this projec
 
 * Link to the repo: 
 [https://github.com/RooyyDoe/project-1-1920](https://github.com/RooyyDoe/project-1-1920)
+* Live link: [https://rooyydoe.github.io/project-1-1920/](https://rooyydoe.github.io/project-1-1920/)
 
 # BookPoint.
 
