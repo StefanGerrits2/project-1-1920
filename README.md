@@ -21,14 +21,15 @@ I worked together with [Roy Kuijper](https://github.com/RooyyDoe) on this projec
 #### HP Windows 10
 
 Tested features
-* Afbeeldingen uitzetten
-* Custom fonts uitzetten
-* Kleur uitzetten & kleurenblindheid instellen
-* Muis/Trackpad werkt niet
-* Breedband internet uitzetten
-* Javascript (volledig)
-* Cookies niet accepteren
-* localStorage doet het niet
+* Disable images
+* Disable custom fonts
+* Turn of color / Color blind mode
+* No mouse/trackpad
+* Internet throttling
+* No Javascript
+* No cookies / local storage
+
+#### Browsers
 
 * Chrome 80
   * a
@@ -39,6 +40,11 @@ Tested features
 
 * Internet Explorer 11.0
 
+#### Surface Windows RT 8.1
+
+* Internet Explorer 11.0
+
+- No javascript imports - breaks all javascript immediataly
 
 #### Huawei Ascend Y300 running android 4.1.1
 
