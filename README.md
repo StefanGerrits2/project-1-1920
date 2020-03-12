@@ -13,3 +13,17 @@ I worked together with [Roy Kuijper](https://github.com/RooyyDoe) on this projec
 
 ### Template page
 ![image](https://user-images.githubusercontent.com/45566396/76074218-5347b780-5f9b-11ea-974e-8049b825834d.png)
+
+### Device & Browser testing - Break my OBA project
+
+#### Device
+
+HP Windows 10
+
+* Chrome 80
+* Firefox 73.0
+* Internet Explorer 11.0
+
+Huawei Ascend Y300 running android 4.1.1
+
+* 
