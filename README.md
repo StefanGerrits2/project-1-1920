@@ -20,17 +20,25 @@ I worked together with [Roy Kuijper](https://github.com/RooyyDoe) on this projec
 
 #### HP Windows 10
 
-* Chrome 80
+Tested features
+* Afbeeldingen uitzetten
+* Custom fonts uitzetten
+* Kleur uitzetten & kleurenblindheid instellen
+* Muis/Trackpad werkt niet
+* Breedband internet uitzetten
+* Javascript (volledig)
+* Cookies niet accepteren
+* localStorage doet het niet
 
-Features
+* Chrome 80
+  * a
 
 * Firefox 73.0
 
-Features
+
 
 * Internet Explorer 11.0
 
-Features
 
 #### Huawei Ascend Y300 running android 4.1.1
 
