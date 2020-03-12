@@ -37,7 +37,7 @@ Firefox 73.0
 Internet Explorer 11.0
 - No javascript imports - breaks all javascript immediataly
 
-#### Surface Windows RT 8.1
+#### Surface Tablet Windows RT 8.1
 Internet Explorer 11.0
 - No javascript imports - breaks all javascript immediataly
 - This also means some of the styling broke because we set some attributes for JS in javascript. I learned to never use CSS again in Javascript because when you don't have JS enabled or the JS breaks, your whole styling breaks aswell if you defined CSS in your JS.
