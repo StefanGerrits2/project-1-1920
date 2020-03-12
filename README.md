@@ -1,5 +1,4 @@
 I worked together with [Roy Kuijper](https://github.com/RooyyDoe) on this project. We made it on his repo. 
-
 * Link to the repo: 
 [https://github.com/RooyyDoe/project-1-1920](https://github.com/RooyyDoe/project-1-1920)
 * Live link: [https://rooyydoe.github.io/project-1-1920/](https://rooyydoe.github.io/project-1-1920/)
@@ -10,32 +9,10 @@ I worked together with [Roy Kuijper](https://github.com/RooyyDoe) on this projec
 
 ### Home
 ![image](https://user-images.githubusercontent.com/45566396/76074176-475bf580-5f9b-11ea-8cd0-8f5980ac0614.png)
-
 ### Template page
 ![image](https://user-images.githubusercontent.com/45566396/76074218-5347b780-5f9b-11ea-974e-8049b825834d.png)
 
 ## Device & Browser testing - Break my OBA project
-
-Tested features
-* Disable images
-* Disable custom fonts
-* Turn of color / Color blind mode
-* No mouse/trackpad
-* Internet throttling
-* No Javascript
-* No cookies / local storage
-
-#### Browsers
-
-* Chrome 80
-* Firefox 73.0
-* Internet Explorer 11.0
-
-### Device
-
-#### HP Windows 10
-
-* Chrome 80
 
 - Disable images: De overview pagina is niet bruikbaar meer, alle klikbare elementen waren images.
 - Disable custom fonts: Niets interessants.
@@ -45,33 +22,39 @@ Tested features
 - No Javascript: Functionaliteiten zoals zoeken (fetchen) werkt niet. Alle containers zijn visible omdat ik met javascript met setAttribute deze toggelde. Fix: doe dit met CSS.
 - No cookies / local storage: Alles werkt prima omdat wij dit niet gebruiken.
 
+#### Browsers
+* Chrome 80
 * Firefox 73.0
-
-- 
-
 * Internet Explorer 11.0
 
+### Device
+
+#### HP Windows 10
+Chrome 80
+- Everything works fine since this was the browser we built it for/in.
+Firefox 73.0
+- Everything works fine here aswell.
+Internet Explorer 11.0
 - No javascript imports - breaks all javascript immediataly
 
 #### Surface Windows RT 8.1
-
-* Internet Explorer 11.0
-
+Internet Explorer 11.0
 - No javascript imports - breaks all javascript immediataly
+- This also means some of the styling broke because we set some attributes for JS in javascript. I learned to never use CSS again in Javascript because when you don't have JS enabled or the JS breaks, your whole styling breaks aswell if you defined CSS in your JS.
+
+This means no functionality - because you can't search through the API (Javascript)
+
+All CSS and HTML worked normally.
 
 #### Huawei Ascend Y300 running android 4.1.1
-
-* 
+* Did not work, it blocked github because it was not a secure connection (HTTPS).
 
 ### Screenreader test - NVDA on Windows 
-
-In general:
-Voor elk element vertelt se screenreader op welk niveau het staat en welk element het is. 
-
+Over het algemeen:
+Voor elk element vertelt de screenreader op welk niveau het staat en welk element het is. 
 Home pagina:
 Elke link je die je hebt bezocht zegt het dat het visited is.
 Bezocht link figuur knop bijschrift afbeelding buiten figuur.
-
 Detail pagina:
 Voor elk aanpasbaar item:
 Klikbaar sectie meerdere regels Bewerkbaar jouw naam hier buiten sectie.
