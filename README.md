@@ -51,11 +51,11 @@ All CSS and HTML worked normally.
 
 ### Screenreader test - NVDA on Windows 
 Over het algemeen:
-Voor elk element vertelt de screenreader op welk niveau het staat en welk element het is. 
+* Voor elk element vertelt de screenreader op welk niveau het staat en welk element het is. 
 Home pagina:
-Elke link je die je hebt bezocht zegt het dat het visited is.
-Bezocht link figuur knop bijschrift afbeelding buiten figuur.
+* Elke link je die je hebt bezocht zegt het dat het visited is.
+* Bezocht link figuur knop bijschrift afbeelding buiten figuur.
 Detail pagina:
-Voor elk aanpasbaar item:
-Klikbaar sectie meerdere regels Bewerkbaar jouw naam hier buiten sectie.
-Het hele template wordt compleet voorgelezen, de instellingen voor het customizen niet.
+* Voor elk aanpasbaar item:
+* Klikbaar sectie meerdere regels Bewerkbaar jouw naam hier buiten sectie.
+* Het hele template wordt compleet voorgelezen, de instellingen voor het customizen niet.
