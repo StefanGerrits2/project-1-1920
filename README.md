@@ -16,10 +16,6 @@ I worked together with [Roy Kuijper](https://github.com/RooyyDoe) on this projec
 
 ## Device & Browser testing - Break my OBA project
 
-### Device
-
-#### HP Windows 10
-
 Tested features
 * Disable images
 * Disable custom fonts
@@ -45,6 +41,10 @@ Tested features
 * Internet Explorer 11.0
 
 - No javascript imports - breaks all javascript immediataly
+
+### Device
+
+#### HP Windows 10
 
 #### Surface Windows RT 8.1
 
