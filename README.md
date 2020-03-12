@@ -32,13 +32,19 @@ Tested features
 #### Browsers
 
 * Chrome 80
-  * a
+
+- Disable images: De overview pagina is niet bruikbaar meer, alle klikbare elementen waren images.
+- Disable custom fonts: Niets interessants.
+- Turn of color / color blind mode: In Monochromacy kan je de achtergrondkleuren niet meer goed uit elkaar houden in de edit modus van de powerpoint. Een fix hiervoor zou zijn om de naam van de kleur ook in de content te zetten net als de kleuren voor de fonts.
+- 
 
 * Firefox 73.0
 
-
+- 
 
 * Internet Explorer 11.0
+
+- No javascript imports - breaks all javascript immediataly
 
 #### Surface Windows RT 8.1
 
