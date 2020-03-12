@@ -49,3 +49,17 @@ Tested features
 #### Huawei Ascend Y300 running android 4.1.1
 
 * 
+
+### Screenreader test - NVDA on Windows 
+
+In general:
+Voor elk element vertelt se screenreader op welk niveau het staat en welk element het is. 
+
+Home pagina:
+Elke link je die je hebt bezocht zegt het dat het visited is.
+Bezocht link figuur knop bijschrift afbeelding buiten figuur.
+
+Detail pagina:
+Voor elk aanpasbaar item:
+Klikbaar sectie meerdere regels Bewerkbaar jouw naam hier buiten sectie.
+Het hele template wordt compleet voorgelezen, de instellingen voor het customizen niet.
