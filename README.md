@@ -28,6 +28,14 @@ Tested features
 #### Browsers
 
 * Chrome 80
+* Firefox 73.0
+* Internet Explorer 11.0
+
+### Device
+
+#### HP Windows 10
+
+* Chrome 80
 
 - Disable images: De overview pagina is niet bruikbaar meer, alle klikbare elementen waren images.
 - Disable custom fonts: Niets interessants.
@@ -41,10 +49,6 @@ Tested features
 * Internet Explorer 11.0
 
 - No javascript imports - breaks all javascript immediataly
-
-### Device
-
-#### HP Windows 10
 
 #### Surface Windows RT 8.1
 
